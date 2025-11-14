@@ -1,0 +1,1 @@
+支持humaneval，mbpp，livecodebench等主流code domain benchmark的自动化评测框架（修改model.yaml设置参数）
